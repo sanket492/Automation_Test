@@ -1,5 +1,7 @@
 git command practise
-I am adding this file to repository
+I am adding this file to repository-modifying this line of file then commiting
+lalal
+slsl
 done bhai
 llllalllalllalla
 done
